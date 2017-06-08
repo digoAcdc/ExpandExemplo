@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_marginTop="8dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="30dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/ckContent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/checkbox_selector_cep"
+            android:checked="false" />
+
+        <TextView
+            android:id="@+id/tvTextoContent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:textSize="16sp"
+            tools:text="Sudeste" />
+
+        <TextView
+            android:id="@+id/tvIdRegion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="1sp"
+            android:visibility="gone"
+            tools:text="1" />
+
+        <TextView
+            android:id="@+id/tvIdZone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="1sp"
+            android:visibility="gone"
+            tools:text="1" />
+
+
+
+    </LinearLayout>
+    <!--
+        <View
+            android:id="@+id/viewPedido"
+            style="@style/divider_item_financial" />-->
+</LinearLayout>
