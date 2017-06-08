@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rodrigobarbosa/Desktop/ExpandExemplo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/rodrigobarbosa/Desktop/ExpandExemplo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_49a09401c5465d29a7172439e6bd425d5f5c590f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rodrigobarbosa/.android/build-cache/d442a1c24028c5b8cbc2bdcba67d288ab02e1501/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/Users/rodrigobarbosa/Desktop/Expand/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18062f86c36e57a8084e4aa138c0b13d6cfb787c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rodrigobarbosa/Desktop/ExpandExemplo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0101a54d626c729f388466b65c50dcf5443e358e">
+        <dex dex="/Users/rodrigobarbosa/Desktop/ExpandExemplo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_efa6e22f992476dad269845a935797f7929d5f5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rodrigobarbosa/Desktop/Expand/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e087ab21a4f7cb84299679645d34db6c0f1bc9b0">
+        <dex dex="/Users/rodrigobarbosa/Desktop/Expand/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9500ee9a5b4b2f40383083b53c8664e4e2c4446d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rodrigobarbosa/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/Users/rodrigobarbosa/Desktop/Expand/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.6.0_69e4804a5a693c3629ce08759eb960efc57a4689/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rodrigobarbosa/.android/build-cache/cf4a4d722da98ae65f9f2b2bd4185c5e8adb66d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/rodrigobarbosa/Desktop/Expand/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9622ad0247f9a6d413543597307d8a78d903cba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rodrigobarbosa/Desktop/Expand/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/rodrigobarbosa/Desktop/Expand/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e8fcf33184277c91b45edc4e3dfcdd9e8d369251/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rodrigobarbosa/.android/build-cache/368cf7ef994fd74d90418522d0f99dd2e72e3b6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f5eeb4583102dd6771ab71bc8f0c6965548dd3e0">
+        <dex dex="/Users/rodrigobarbosa/Desktop/Expand/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d67ebcc5023767a0f49b07a0205a90ff0035c861/classes.dex" />
+    </item>
+
+</items>
